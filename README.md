@@ -1,7 +1,10 @@
-### Hi there 👋
+![](img/title.png)
+### Hi! 👋 This is ✨ CGC's github ✨
+---
 
+🧑‍🤝‍🧑 I’m an undergraduate student in a university majoring in artificial intelligence
 <!--
-**CGC12123/CGC12123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**CGC12123/CGC12123** is a  _special_  repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
