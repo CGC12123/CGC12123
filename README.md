@@ -1,4 +1,5 @@
-![](img/title.png)
+
+<div align=center><img src="img/title.png"></div>
 ### Hi! 👋 This is ✨ CGC's github ✨
 ---
 
