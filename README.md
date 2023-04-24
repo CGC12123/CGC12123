@@ -1,4 +1,4 @@
-<div align=center><img src="img/title2.jpg"></div>
+<div align=center><img src="img/title2.png"></div>
 
 ### Hi! 👋 This is ✨ CGC's GitHub ✨
 #### 👨‍💻 I’m an undergraduate student in a university majoring in artificial intelligence
