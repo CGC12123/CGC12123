@@ -2,7 +2,6 @@
 
 ### Hi! 👋 This is ✨ CGC's GitHub ✨
 #### 👨‍💻 I’m an undergraduate student in a university majoring in artificial intelligence
-<!-- <div align=""> <img src="https://visitor-badge.glitch.me/badge?page_id=sun0225SUN" /> </div> -->
 
 ---
 
@@ -25,11 +24,17 @@ Here are some ideas to get you started:
 
 <div align=center><img src="https://metrics.lecoq.io/CGC12123?template=classic&languages=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&languages=false&languages.ignored=html%2C%20css%2C%20vhdl%2C%20javascript&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Beijing"></div>
 
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=CGC12123" /> </div>
+<!-- <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/shin_chan.gif" />&emsp;&emsp;&emsp;&emsp; -->
+<img src="[https://spotify-github-profile.vercel.app/api/view?uid=31k53kp6hgkbovg72427dya5av44&cover_image=true&theme=default&show_offline=false&background_color=121212](https://github-profile-trophy.vercel.app/?username=CGC12123)" />
+&emsp;&emsp;&emsp;&emsp;
+<!-- <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/shin_chan.gif" /> -->
+<!-- <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=CGC12123" /> </div> -->
 
 <!-- ![CGC's GitHub stats](https://github-readme-stats.vercel.app/api?username=CGC12123&show_icons=true&theme=transparent) -->
 <!-- ![CGC's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CGC12123&layout=compact&hide_border=true&langs_count=10) -->
 <!-- <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=CGC12123&theme=xcode" /> </div> -->
+
+<div align="center"> <img src="./img/code.png" /> </div>
 
 ---
 
