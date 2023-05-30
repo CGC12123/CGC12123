@@ -1,10 +1,10 @@
 <div align=center><img src="img/title2.png"></div>
 
-### 大家好! 👋 这里是 ✨ 小蔡同学的 GitHub ✨
-#### 👨‍💻 目前是人工智能专业在读本科生
-#### 🖥️ 热衷于计算机科学和IT互联网 喜欢一些新鲜高科技
-#### 📸 爱好旅游、摄影
-#### ✈️ [欢迎大家访问我的blog](https://cgc12123.github.io/)
+### hello! 👋 This is ✨ 小蔡同学's GitHub ✨
+#### 👨‍💻 Currently an undergraduate student majoring in artificial intelligence
+#### 🖥️ Passionate about computer science and IT Internet Love some fresh high tech
+#### 📸 Hobbies travel, photography
+#### ✈️ [Welcome to my blog](https://cgc12123.github.io/)
 ---
 
 <!--
