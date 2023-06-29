@@ -43,6 +43,8 @@ Here are some ideas to get you started:
 <!-- ![CGC's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CGC12123&layout=compact&hide_border=true&langs_count=10) -->
 <!-- <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=CGC12123&theme=xcode" /> </div> -->
 
+[![CGC's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CGC12123&theme=xcode)](https://github.com/CGC12123/github-readme-activity-graph)
+
 <div align="center"> <img src="./img/code.png" /> </div>
 
 ---
