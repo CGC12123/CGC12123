@@ -44,6 +44,75 @@ Here are some ideas to get you started:
 <!-- <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=CGC12123&theme=xcode" /> </div> -->
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-165-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 255 Contributions in the Year 2023
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 23 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                59 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
+🌆 Daytime                287 commits         ████████████░░░░░░░░░░░░░   46.29 % 
+🌃 Evening                265 commits         ███████████░░░░░░░░░░░░░░   42.74 % 
+🌙 Night                  9 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   56 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
+Tuesday                  165 commits         ███████░░░░░░░░░░░░░░░░░░   26.61 % 
+Wednesday                142 commits         ██████░░░░░░░░░░░░░░░░░░░   22.90 % 
+Thursday                 91 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.68 % 
+Friday                   48 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
+Saturday                 76 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
+Sunday                   42 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Hong_Kong
+
+💬 Programming Languages: 
+Markdown                 0 secs              █████████████████████████   100.00 % 
+
+🔥 Editors: 
+VS Code                  0 secs              █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+2023RoboCom              0 secs              █████████████████████████   100.00 % 
+
+💻 Operating System: 
+WSL                      0 secs              █████████████████████████   100.00 % 
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   7 repos             ███████████░░░░░░░░░░░░░░   43.75 % 
+C                        4 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+Makefile                 1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+VHDL                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+```
+
+
+
+
+ Last Updated on 30/06/2023 02:41:26 UTC
 <!--END_SECTION:waka-->
 
 [![CGC's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CGC12123&theme=xcode)](https://github.com/CGC12123/github-readme-activity-graph)
