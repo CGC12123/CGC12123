@@ -44,19 +44,19 @@ Here are some ideas to get you started:
 <!-- <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=CGC12123&theme=xcode" /> </div> -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2027%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-267-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-268-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 291 Contributions in the Year 2023
+> 🏆 292 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 23 Public Repositories 
+> 📜 24 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
@@ -87,20 +87,23 @@ Sunday                   62 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Python                   1 hr 59 mins        ███████████████████████░░   91.74 % 
-C++                      9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
-Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+Python                   2 hrs 34 mins       ███████████████████░░░░░░   74.40 % 
+C++                      16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
+Markdown                 15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
+Bash                     14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.83 % 
+XML                      7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 9 mins        █████████████████████████   100.00 % 
+VS Code                  3 hrs 27 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-2023RoboCom              2 hrs 7 mins        █████████████████████████   98.16 % 
-Cv_for_Orinnano          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
+2023RoboCom              3 hrs 21 mins       ████████████████████████░   96.81 % 
+Cv_for_Orinnano          6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
+myBlog                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 💻 Operating System: 
-WSL                      2 hrs 9 mins        █████████████████████████   100.00 % 
+WSL                      3 hrs 27 mins       █████████████████████████   99.88 % 
+Windows                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 ```
 
 **I Mostly Code in Python** 
@@ -116,7 +119,7 @@ VHDL                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 03/07/2023 18:36:07 UTC
+ Last Updated on 04/07/2023 18:38:37 UTC
 <!--END_SECTION:waka-->
 
 [![CGC's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CGC12123&theme=xcode)](https://github.com/CGC12123/github-readme-activity-graph)
