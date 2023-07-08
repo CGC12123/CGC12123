@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 <!-- ![CGC's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=CGC12123&show_icons=true&count_private=true&theme=gotham) -->
 ### 🌟 GitHub Analytics
 
