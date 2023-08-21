@@ -1,10 +1,15 @@
-<div align=center><img src="img/title2.png"></div>
+<!-- <div align=center><img src="img/title2.png"></div> -->
 
-### hello! 👋 This is ✨ 小蔡同学's GitHub ✨
+<img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjZ3bjB3YnhnZ3NhYnU3cXZkZWltdWc0dXQxbnIxNzNheDg3ZmI0eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2z73e5pARxR03U7CB7/giphy.gif" width="260"> 
+
+<h3> hello! 👋 This is ✨ 小蔡同学's GitHub <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="25"> ✨ </h3>
+
 #### 👨‍💻 Currently an undergraduate student majoring in artificial intelligence
 #### 🖥️ Passionate about computer science and IT Internet Love some fresh high tech
 #### 📸 Hobbies travel, photography
 #### ✈️ [Welcome to my blog](https://cgc12123.github.io/)
+<!-- <img  src="https://media.giphy.com/media/FPbnShq1h1IS5FQyPD/giphy.gif" width="100"> -->
+
 ---
 
 <!--
