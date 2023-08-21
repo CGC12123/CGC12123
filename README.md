@@ -48,18 +48,16 @@ Here are some ideas to get you started:
 <!-- <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=CGC12123&theme=xcode" /> </div> -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-102%20hrs%201%20min-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-101%20hrs%2015%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.9%20million%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                154 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.68 % 
-🌆 Daytime                438 commits         ██████████░░░░░░░░░░░░░░░   41.75 % 
-🌃 Evening                446 commits         ███████████░░░░░░░░░░░░░░   42.52 % 
+🌞 Morning                154 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.65 % 
+🌆 Daytime                440 commits         ██████████░░░░░░░░░░░░░░░   41.86 % 
+🌃 Evening                446 commits         ███████████░░░░░░░░░░░░░░   42.44 % 
 🌙 Night                  11 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
 ```
 
@@ -97,7 +95,7 @@ VHDL                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 21/08/2023 07:53:00 UTC
+ Last Updated on 21/08/2023 18:33:11 UTC
 <!--END_SECTION:waka-->
 
 [![CGC's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CGC12123&theme=xcode)](https://github.com/CGC12123/github-readme-activity-graph)
