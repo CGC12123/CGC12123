@@ -68,17 +68,13 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-C                        2 hrs 36 mins       █████████████████████░░░░   84.20 % 
-C++                      19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.24 % 
-Ezhil                    7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  3 hrs 5 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  3 hrs 5 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -94,7 +90,7 @@ VHDL                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/09/2023 18:33:23 UTC
+ Last Updated on 02/09/2023 18:33:29 UTC
 <!--END_SECTION:waka-->
 
 [![CGC's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CGC12123&theme=xcode)](https://github.com/CGC12123/github-readme-activity-graph)
