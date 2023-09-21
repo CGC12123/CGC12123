@@ -7,7 +7,7 @@
 #### 👨‍💻 Currently an undergraduate student majoring in artificial intelligence
 #### 🖥️ Passionate about computer science and IT Internet Love some fresh high tech
 #### 📸 Hobbies travel, photography
-#### ✈️ [Welcome to my blog](https://cgc12123.github.io/)
+#### ✈️ [Welcome to my blog🔗](https://cgc12123.github.io/)
 <!-- <img  src="https://media.giphy.com/media/FPbnShq1h1IS5FQyPD/giphy.gif" width="100"> -->
 
 ---
