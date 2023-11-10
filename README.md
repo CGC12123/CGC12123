@@ -68,18 +68,13 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Markdown                 2 hrs 18 mins       █████████████████░░░░░░░░   66.58 % 
-Python                   56 mins             ███████░░░░░░░░░░░░░░░░░░   27.00 % 
-C++                      10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
-JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
-C                        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  3 hrs 27 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  3 hrs 13 mins       ███████████████████████░░   93.28 % 
-Linux                    13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -95,7 +90,7 @@ Makefile                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 09/11/2023 18:33:41 UTC
+ Last Updated on 10/11/2023 18:33:49 UTC
 <!--END_SECTION:waka-->
 
 [![CGC's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CGC12123&theme=xcode)](https://github.com/CGC12123/github-readme-activity-graph)
