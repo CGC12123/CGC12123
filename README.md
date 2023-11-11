@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 <!-- <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=CGC12123&theme=xcode" /> </div> -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-206%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-206%20hrs%2029%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.0%20million%20lines%20of%20code-blue)
 
@@ -68,13 +68,17 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   5 mins              ████████████████░░░░░░░░░   63.58 % 
+JSON                     1 min               ████░░░░░░░░░░░░░░░░░░░░░   15.30 % 
+C++                      1 min               ███░░░░░░░░░░░░░░░░░░░░░░   11.44 % 
+GDScript                 0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  8 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    8 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -90,7 +94,7 @@ Makefile                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 10/11/2023 18:33:49 UTC
+ Last Updated on 11/11/2023 18:32:57 UTC
 <!--END_SECTION:waka-->
 
 [![CGC's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CGC12123&theme=xcode)](https://github.com/CGC12123/github-readme-activity-graph)
