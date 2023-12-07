@@ -48,7 +48,40 @@ Here are some ideas to get you started:
 <!-- <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=CGC12123&theme=xcode" /> </div> -->
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-259%20hrs%2028%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.0%20million%20lines%20of%20code-blue)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                160 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
+🌆 Daytime                494 commits         ███████████░░░░░░░░░░░░░░   43.18 % 
+🌃 Evening                479 commits         ██████████░░░░░░░░░░░░░░░   41.87 % 
+🌙 Night                  11 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Hong_Kong
+
+💬 Programming Languages: 
+Python                   20 hrs 35 mins      ██████████████████████░░░   87.36 % 
+Text                     1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
+C++                      55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
+Markdown                 17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+Bash                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+
+🔥 Editors: 
+VS Code                  23 hrs 34 mins      █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  22 hrs 2 mins       ███████████████████████░░   93.53 % 
+Linux                    47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
+WSL                      44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
+```
 
 **I Mostly Code in Python** 
 
@@ -63,7 +96,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/12/2023 18:35:17 UTC
+ Last Updated on 07/12/2023 18:35:28 UTC
 <!--END_SECTION:waka-->
 
 [![CGC's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CGC12123&theme=xcode)](https://github.com/CGC12123/github-readme-activity-graph)
