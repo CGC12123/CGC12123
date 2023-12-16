@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 <!-- <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=CGC12123&theme=xcode" /> </div> -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-276%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-276%20hrs%2024%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.0%20million%20lines%20of%20code-blue)
 
@@ -68,17 +68,17 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Python                   3 hrs 2 mins        █████████████████░░░░░░░░   68.48 % 
-MATLAB                   50 mins             █████░░░░░░░░░░░░░░░░░░░░   18.89 % 
-Objective-C              25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.69 % 
-JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
-Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
+Python                   3 hrs 12 mins       █████████████████░░░░░░░░   69.21 % 
+MATLAB                   52 mins             █████░░░░░░░░░░░░░░░░░░░░   18.73 % 
+Objective-C              25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
+JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
+Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 25 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 38 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  4 hrs 25 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 38 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -94,7 +94,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/12/2023 18:34:54 UTC
+ Last Updated on 16/12/2023 18:33:23 UTC
 <!--END_SECTION:waka-->
 
 [![CGC's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CGC12123&theme=xcode)](https://github.com/CGC12123/github-readme-activity-graph)
