@@ -68,9 +68,9 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Markdown                 4 mins              ████████████████░░░░░░░░░   62.81 % 
-Python                   2 mins              ████████░░░░░░░░░░░░░░░░░   33.96 % 
-YAML                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+Markdown                 4 mins              ███████████████░░░░░░░░░░   61.88 % 
+Python                   2 mins              █████████░░░░░░░░░░░░░░░░   34.94 % 
+YAML                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
 
 🔥 Editors: 
 VS Code                  6 mins              █████████████████████████   100.00 % 
@@ -92,7 +92,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 03/01/2024 18:34:15 UTC
+ Last Updated on 04/01/2024 18:34:51 UTC
 <!--END_SECTION:waka-->
 
 [![CGC's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CGC12123&theme=xcode)](https://github.com/CGC12123/github-readme-activity-graph)
