@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 <!-- <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=CGC12123&theme=xcode" /> </div> -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-412%20hrs%2039%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-414%20hrs%2058%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.3%20million%20lines%20of%20code-blue)
 
@@ -68,18 +68,18 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Python                   6 hrs 17 mins       ███████████████████████░░   93.80 % 
-Other                    15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
-Objective-C              4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
-YAML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
-Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+Python                   7 hrs 39 mins       ████████████████████████░   94.84 % 
+Other                    15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
+Objective-C              4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+YAML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 41 mins       █████████████████████████   100.00 % 
+VS Code                  8 hrs 5 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  6 hrs 41 mins       █████████████████████████   99.76 % 
-WSL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+Windows                  8 hrs 4 mins        █████████████████████████   99.80 % 
+WSL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 ```
 
 **I Mostly Code in Python** 
@@ -95,7 +95,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 03/04/2024 18:33:54 UTC
+ Last Updated on 04/04/2024 18:33:45 UTC
 <!--END_SECTION:waka-->
 
 [![CGC's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CGC12123&theme=xcode)](https://github.com/CGC12123/github-readme-activity-graph)
