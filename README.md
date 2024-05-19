@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 <!-- <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=CGC12123&theme=xcode" /> </div> -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-480%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-480%20hrs%209%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.3%20million%20lines%20of%20code-blue)
 
@@ -68,16 +68,16 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-XML                      20 mins             ████████████░░░░░░░░░░░░░   46.64 % 
-Python                   13 mins             ███████░░░░░░░░░░░░░░░░░░   29.44 % 
-Text                     8 mins              █████░░░░░░░░░░░░░░░░░░░░   19.73 % 
-YAML                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
+XML                      20 mins             ███████████░░░░░░░░░░░░░░   42.67 % 
+Python                   17 mins             █████████░░░░░░░░░░░░░░░░   35.44 % 
+Text                     8 mins              █████░░░░░░░░░░░░░░░░░░░░   18.05 % 
+YAML                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
 
 🔥 Editors: 
-VS Code                  44 mins             █████████████████████████   100.00 % 
+VS Code                  48 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  44 mins             █████████████████████████   100.00 % 
+Windows                  48 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -93,7 +93,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 18/05/2024 18:33:56 UTC
+ Last Updated on 19/05/2024 18:33:29 UTC
 <!--END_SECTION:waka-->
 
 [![CGC's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CGC12123&theme=xcode)](https://github.com/CGC12123/github-readme-activity-graph)
