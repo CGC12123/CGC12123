@@ -68,9 +68,9 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Python                   1 hr 2 mins         ███████████████████████░░   92.39 % 
-JSON                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
-Bash                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
+Python                   1 hr 3 mins         ███████████████████████░░   92.42 % 
+JSON                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
+Bash                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
 SSH Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
 
 🔥 Editors: 
@@ -94,7 +94,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/05/2024 18:35:41 UTC
+ Last Updated on 28/05/2024 18:37:06 UTC
 <!--END_SECTION:waka-->
 
 [![CGC's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CGC12123&theme=xcode)](https://github.com/CGC12123/github-readme-activity-graph)
