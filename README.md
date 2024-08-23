@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 <!-- <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=CGC12123&theme=xcode" /> </div> -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-507%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-507%20hrs%2050%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.3%20million%20lines%20of%20code-blue)
 
@@ -68,13 +68,13 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C                        13 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  13 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  13 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -90,7 +90,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 22/08/2024 18:39:27 UTC
+ Last Updated on 23/08/2024 18:39:13 UTC
 <!--END_SECTION:waka-->
 
 [![CGC's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CGC12123&theme=xcode)](https://github.com/CGC12123/github-readme-activity-graph)
