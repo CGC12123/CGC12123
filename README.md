@@ -68,14 +68,13 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Text                     1 min               █████████████████████░░░░   85.02 % 
-SSH Config               0 secs              ████░░░░░░░░░░░░░░░░░░░░░   14.98 % 
+Text                     1 min               █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  2 mins              █████████████████████████   100.00 % 
+VS Code                  1 min               █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  2 mins              █████████████████████████   100.00 % 
+Windows                  1 min               █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -91,7 +90,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 30/09/2024 18:43:02 UTC
+ Last Updated on 01/10/2024 18:43:12 UTC
 <!--END_SECTION:waka-->
 
 [![CGC's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CGC12123&theme=xcode)](https://github.com/CGC12123/github-readme-activity-graph)
