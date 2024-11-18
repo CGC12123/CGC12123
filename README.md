@@ -4,11 +4,11 @@
 
 <h3> hello! 👋 This is ✨ Mr.Cai's GitHub <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="25"> ✨ </h3>
 
-👨‍💻 Currently an undergraduate student majoring in artificial intelligence\
+**👨‍💻 Currently an undergraduate student majoring in artificial intelligence\
 🏫 About to pursue a master's degree in artificial intelligence\
 🖥️ Interested in 3D vision, medical imaging\
 📸 Hobbies travel, photography\
-✈️ [Welcome to my blog🔗](https://cgc12123.github.io/)
+✈️ [Welcome to my blog🔗](https://cgc12123.github.io/)**
 <!-- <img  src="https://media.giphy.com/media/FPbnShq1h1IS5FQyPD/giphy.gif" width="100"> -->
 
 ---
@@ -94,7 +94,7 @@ HTML                     2 repos             ██░░░░░░░░░�
  Last Updated on 17/11/2024 18:41:21 UTC
 <!--END_SECTION:waka-->
 
-[![CGC's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CGC12123&theme=xcode)](https://github.com/CGC12123/github-readme-activity-graph)
+<!-- [![CGC's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CGC12123&theme=xcode)](https://github.com/CGC12123/github-readme-activity-graph) -->
 
 <div align="center"> <img src="./img/code.png" /> </div>
 
