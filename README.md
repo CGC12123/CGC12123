@@ -4,11 +4,11 @@
 
 <h3> hello! 👋 This is ✨ Mr.Cai's GitHub <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="25"> ✨ </h3>
 
-**👨‍💻 Currently an undergraduate student majoring in artificial intelligence\
-🏫 About to pursue a master's degree in artificial intelligence\
-🖥️ Interested in 3D vision, medical imaging\
-📸 Hobbies travel, photography\
-✈️ [Welcome to my blog🔗](https://cgc12123.github.io/)**
+#### 👨‍💻 Currently an undergraduate student majoring in artificial intelligence\
+#### 🏫 About to pursue a master's degree in artificial intelligence\
+#### 🖥️ Interested in 3D vision, medical imaging\
+#### 📸 Hobbies travel, photography\
+#### ✈️ [Welcome to my blog🔗](https://cgc12123.github.io/)
 <!-- <img  src="https://media.giphy.com/media/FPbnShq1h1IS5FQyPD/giphy.gif" width="100"> -->
 
 ---
