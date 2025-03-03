@@ -2,13 +2,14 @@
 
 <img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjZ3bjB3YnhnZ3NhYnU3cXZkZWltdWc0dXQxbnIxNzNheDg3ZmI0eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2z73e5pARxR03U7CB7/giphy.gif" width="260"> 
 
-<h3> hello! 👋 This is ✨ Mr.Cai's GitHub <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="25"> ✨ </h3>
+<h3> Hello! 👋 This is ✨ Mr.Cai's GitHub <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="25"> ✨ </h3>
 
-#### 👨‍💻 Currently an undergraduate student majoring in artificial intelligence
-#### 🏫 About to pursue a master's degree in artificial intelligence
-#### 🖥️ Interested in 3D vision, medical imaging
+#### 👨‍💻 Currently an undergraduate student majoring in Artificial Intelligence
+#### 🏫 About to pursue a master's degree in Artificial Intelligence
+#### 🖥️ Interested in 3D Vision, Medical Imaging
 #### 📸 Hobbies travel, photography
 #### ✈️ [Welcome to my blog🔗](https://cgc12123.github.io/)
+#### ✉️ You can reach me at gccai.xm@gmail.com 
 <!-- <img  src="https://media.giphy.com/media/FPbnShq1h1IS5FQyPD/giphy.gif" width="100"> -->
 
 ---
