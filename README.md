@@ -57,10 +57,10 @@ Here are some ideas to get you started:
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                180 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
-🌆 Daytime                553 commits         ███████████░░░░░░░░░░░░░░   43.00 % 
-🌃 Evening                538 commits         ██████████░░░░░░░░░░░░░░░   41.84 % 
-🌙 Night                  15 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
+🌞 Morning                180 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
+🌆 Daytime                553 commits         ███████████░░░░░░░░░░░░░░   42.84 % 
+🌃 Evening                543 commits         ███████████░░░░░░░░░░░░░░   42.06 % 
+🌙 Night                  15 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
 ```
 
 
@@ -70,13 +70,13 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Python                   43 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  43 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-WSL                      43 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -92,7 +92,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 22/03/2025 18:41:22 UTC
+ Last Updated on 23/03/2025 18:41:29 UTC
 <!--END_SECTION:waka-->
 
 <!-- [![CGC's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CGC12123&theme=xcode)](https://github.com/CGC12123/github-readme-activity-graph) -->
