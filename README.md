@@ -70,7 +70,8 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Python                   1 hr 56 mins        █████████████████████████   100.00 % 
+Python                   1 hr 56 mins        █████████████████████████   99.98 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
 VS Code                  1 hr 56 mins        █████████████████████████   100.00 % 
@@ -92,7 +93,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 28/03/2025 18:46:49 UTC
+ Last Updated on 29/03/2025 18:41:51 UTC
 <!--END_SECTION:waka-->
 
 <!-- [![CGC's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CGC12123&theme=xcode)](https://github.com/CGC12123/github-readme-activity-graph) -->
