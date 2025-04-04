@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 <!-- <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=CGC12123&theme=xcode" /> </div> -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-536%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-536%20hrs%2035%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.6%20million%20lines%20of%20code-blue)
 
@@ -70,14 +70,16 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Python                   47 mins             █████████████████████████   99.88 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+Python                   1 hr 8 mins         ██████████████████████░░░   87.96 % 
+SSH Config               9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.96 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🔥 Editors: 
-VS Code                  47 mins             █████████████████████████   100.00 % 
+VS Code                  1 hr 17 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-WSL                      47 mins             █████████████████████████   100.00 % 
+WSL                      1 hr 8 mins         ██████████████████████░░░   88.04 % 
+Windows                  9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.96 % 
 ```
 
 **I Mostly Code in Python** 
@@ -93,7 +95,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 03/04/2025 18:44:29 UTC
+ Last Updated on 04/04/2025 18:44:00 UTC
 <!--END_SECTION:waka-->
 
 <!-- [![CGC's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CGC12123&theme=xcode)](https://github.com/CGC12123/github-readme-activity-graph) -->
