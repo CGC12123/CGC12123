@@ -8,7 +8,7 @@
 #### 🏫 About to pursue a master's degree in Artificial Intelligence
 #### 🖥️ Interested in 3D Vision, Medical Imaging
 #### 📸 Hobbies travel, photography
-#### ✈️ [Welcome to my blog🔗](https://cgc12123.github.io/)
+<!-- #### ✈️ [Welcome to my blog🔗](https://cgc12123.github.io/) -->
 #### ✉️ You can reach me at gccai.xm@gmail.com 
 <!-- <img  src="https://media.giphy.com/media/FPbnShq1h1IS5FQyPD/giphy.gif" width="100"> -->
 
