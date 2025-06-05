@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 <!-- <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=CGC12123&theme=xcode" /> </div> -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-541%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-545%20hrs%2014%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.6%20million%20lines%20of%20code-blue)
 
@@ -70,18 +70,18 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-YAML                     1 hr 33 mins        █████████░░░░░░░░░░░░░░░░   36.72 % 
-Markdown                 1 hr 12 mins        ███████░░░░░░░░░░░░░░░░░░   28.60 % 
-Python                   50 mins             █████░░░░░░░░░░░░░░░░░░░░   19.76 % 
-Other                    20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
-JavaScript               6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
+Python                   4 hrs 48 mins       █████████████████████░░░░   83.82 % 
+Markdown                 22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
+YAML                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
+JavaScript               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
+SCSS                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 14 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 44 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  3 hrs 20 mins       ████████████████████░░░░░   78.76 % 
-WSL                      54 mins             █████░░░░░░░░░░░░░░░░░░░░   21.24 % 
+WSL                      4 hrs 51 mins       █████████████████████░░░░   84.45 % 
+Windows                  53 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
 ```
 
 **I Mostly Code in Python** 
@@ -97,7 +97,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 04/06/2025 18:48:03 UTC
+ Last Updated on 05/06/2025 18:58:00 UTC
 <!--END_SECTION:waka-->
 
 <!-- [![CGC's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CGC12123&theme=xcode)](https://github.com/CGC12123/github-readme-activity-graph) -->
