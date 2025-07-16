@@ -4,9 +4,8 @@
 
 <h3> Hello! 👋 This is ✨ Mr.Cai's GitHub <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="25"> ✨ </h3>
 
-#### 👨‍💻 Currently an undergraduate student majoring in Artificial Intelligence
-#### 🏫 About to pursue a master's degree in Artificial Intelligence
-#### 🖥️ Interested in 3D Vision, Medical Imaging
+#### 👨‍💻 Currently pursuing a master's degree in Artificial Intelligence
+#### 🖥️ Interested in Medical Imaging, Embodied Intelligence, and Visual Perception
 #### 📸 Hobbies travel, photography
 <!-- #### ✈️ [Welcome to my blog🔗](https://cgc12123.github.io/) -->
 #### ✉️ You can reach me at gccai.xm@gmail.com 
