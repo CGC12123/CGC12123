@@ -69,16 +69,13 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-C++                      2 hrs 33 mins       ███████████████████░░░░░░   77.30 % 
-Python                   45 mins             ██████░░░░░░░░░░░░░░░░░░░   22.68 % 
-CMake                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  3 hrs 18 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    3 hrs 18 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -94,7 +91,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 09/08/2025 18:48:41 UTC
+ Last Updated on 10/08/2025 18:47:16 UTC
 <!--END_SECTION:waka-->
 
 <!-- [![CGC's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CGC12123&theme=xcode)](https://github.com/CGC12123/github-readme-activity-graph) -->
