@@ -49,34 +49,7 @@ Here are some ideas to get you started:
 <!-- <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=CGC12123&theme=xcode" /> </div> -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-607%20hrs%203%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.6%20million%20lines%20of%20code-blue)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                185 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
-🌆 Daytime                605 commits         ███████████░░░░░░░░░░░░░░   44.72 % 
-🌃 Evening                546 commits         ██████████░░░░░░░░░░░░░░░   40.35 % 
-🌙 Night                  17 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Hong_Kong
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
 
 **I Mostly Code in Python** 
 
@@ -91,7 +64,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 29/08/2025 18:43:15 UTC
+ Last Updated on 30/08/2025 18:42:19 UTC
 <!--END_SECTION:waka-->
 
 <!-- [![CGC's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CGC12123&theme=xcode)](https://github.com/CGC12123/github-readme-activity-graph) -->
