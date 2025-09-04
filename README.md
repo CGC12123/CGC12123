@@ -3,7 +3,7 @@
 
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=155&color=FF8B94FF&text=Guoci%20%20Cai&section=header&reversal=false&fontAlign=50&descAlign=48&descAlignY=53&fontColor=837585FF&animation=twinkling&fontSize=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=125&color=FFA0A0FF&text=Guoci%20%20Cai&section=header&reversal=false&fontAlign=50&descAlign=60&descAlignY=33&fontColor=FFFFFFFF&animation=twinkling&fontSize=35&textBg=false&fontAlignY=35" />
 </div>
 
 <div align="center">
