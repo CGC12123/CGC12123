@@ -1,10 +1,18 @@
 <!-- <div align=center><img src="img/title2.png"></div> -->
+<!-- <img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjZ3bjB3YnhnZ3NhYnU3cXZkZWltdWc0dXQxbnIxNzNheDg3ZmI0eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2z73e5pARxR03U7CB7/giphy.gif" width="260">  -->
 
-<img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjZ3bjB3YnhnZ3NhYnU3cXZkZWltdWc0dXQxbnIxNzNheDg3ZmI0eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2z73e5pARxR03U7CB7/giphy.gif" width="260"> 
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=155&color=FF8B94FF&text=Guoci%20%20Cai&section=header&reversal=false&fontAlign=50&descAlign=48&descAlignY=53&fontColor=837585FF&animation=twinkling&fontSize=50" />
+</div>
+
+<div align="center">
+  <img align='center' src="https://readme-typing-svg.herokuapp.com?font=Chiron+GoRound+TC&pause=1000&color=F7A59D&center=true&vCenter=true&multiline=true&width=435&height=40&lines=Mostly+Human%2C+Slightly+Neural" alt="Typing SVG" />
+</div>
 
 <h3> Hello! 👋 This is ✨ Mr.Cai's GitHub <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="25"> ✨ </h3>
 
-#### 👨‍💻 Currently pursuing a master's degree in Artificial Intelligence
+#### 👨‍💻 Currently a master’s degree student at Institute of Artificial Intelligence@XMU
 #### 🖥️ Interested in Medical Imaging, Embodied Intelligence, and Visual Perception
 #### 📸 Hobbies travel, photography
 <!-- #### ✈️ [Welcome to my blog🔗](https://cgc12123.github.io/) -->
