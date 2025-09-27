@@ -58,39 +58,9 @@ Here are some ideas to get you started:
 <!-- <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=CGC12123&theme=xcode" /> </div> -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-623%20hrs%2040%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-623%20hrs%2051%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.5%20million%20lines%20of%20code-blue)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                177 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
-🌆 Daytime                575 commits         ███████████░░░░░░░░░░░░░░   45.06 % 
-🌃 Evening                507 commits         ██████████░░░░░░░░░░░░░░░   39.73 % 
-🌙 Night                  17 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Hong_Kong
-
-💬 Programming Languages: 
-Python                   13 hrs 13 mins      ██████████████████████░░░   87.90 % 
-Markdown                 57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
-TeX                      24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
-JSON                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
-CSV                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
-
-🔥 Editors: 
-VS Code                  15 hrs 2 mins       █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      14 hrs 53 mins      █████████████████████████   99.00 % 
-WSL                      9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
-```
 
 **I Mostly Code in Python** 
 
@@ -105,7 +75,7 @@ CMake                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 26/09/2025 18:44:07 UTC
+ Last Updated on 27/09/2025 18:42:02 UTC
 <!--END_SECTION:waka-->
 
 <!-- [![CGC's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CGC12123&theme=xcode)](https://github.com/CGC12123/github-readme-activity-graph) -->
