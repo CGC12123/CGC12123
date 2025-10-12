@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 <!-- <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=CGC12123&theme=xcode" /> </div> -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-652%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-657%20hrs%2011%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.5%20million%20lines%20of%20code-blue)
 
@@ -78,18 +78,18 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Python                   5 hrs 7 mins        ██████████████░░░░░░░░░░░   55.71 % 
-TeX                      2 hrs 14 mins       ██████░░░░░░░░░░░░░░░░░░░   24.46 % 
-Other                    1 hr 48 mins        █████░░░░░░░░░░░░░░░░░░░░   19.59 % 
-YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Python                   9 hrs 42 mins       ██████████████████░░░░░░░   70.02 % 
+TeX                      2 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
+Other                    1 hr 49 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.19 % 
+CSV                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+YAML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 11 mins       █████████████████████████   100.00 % 
+VS Code                  13 hrs 51 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    6 hrs 56 mins       ███████████████████░░░░░░   75.54 % 
-Mac                      2 hrs 14 mins       ██████░░░░░░░░░░░░░░░░░░░   24.46 % 
+Linux                    11 hrs 35 mins      █████████████████████░░░░   83.61 % 
+Mac                      2 hrs 16 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.39 % 
 ```
 
 **I Mostly Code in Python** 
@@ -105,7 +105,7 @@ CMake                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 11/10/2025 18:40:22 UTC
+ Last Updated on 12/10/2025 18:42:10 UTC
 <!--END_SECTION:waka-->
 
 <!-- [![CGC's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CGC12123&theme=xcode)](https://github.com/CGC12123/github-readme-activity-graph) -->
