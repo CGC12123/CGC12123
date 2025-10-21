@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 <!-- <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=CGC12123&theme=xcode" /> </div> -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-666%20hrs%2031%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-667%20hrs%208%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.5%20million%20lines%20of%20code-blue)
 
@@ -78,17 +78,16 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Python                   8 hrs 19 mins       ████████████████████████░   96.46 % 
-Other                    15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Python                   7 hrs 21 mins       ████████████████████████░   97.71 % 
+Other                    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 37 mins       █████████████████████████   100.00 % 
+VS Code                  7 hrs 32 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    8 hrs 37 mins       █████████████████████████   100.00 % 
+Linux                    7 hrs 32 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -104,7 +103,7 @@ CMake                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 20/10/2025 18:48:48 UTC
+ Last Updated on 21/10/2025 18:47:56 UTC
 <!--END_SECTION:waka-->
 
 <!-- [![CGC's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CGC12123&theme=xcode)](https://github.com/CGC12123/github-readme-activity-graph) -->
