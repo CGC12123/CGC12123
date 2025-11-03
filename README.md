@@ -58,22 +58,22 @@ Here are some ideas to get you started:
 <!-- <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=CGC12123&theme=xcode" /> </div> -->
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.5%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.4%20million%20lines%20of%20code-blue)
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   24 repos            ██████████████░░░░░░░░░░░   54.55 % 
-C++                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
-TeX                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
-CMake                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+Python                   24 repos            ██████████████░░░░░░░░░░░   55.81 % 
+C++                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
+JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
+TeX                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+CMake                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
 ```
 
 
 
 
- Last Updated on 02/11/2025 18:41:57 UTC
+ Last Updated on 03/11/2025 18:44:40 UTC
 <!--END_SECTION:waka-->
 
 <!-- [![CGC's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CGC12123&theme=xcode)](https://github.com/CGC12123/github-readme-activity-graph) -->
