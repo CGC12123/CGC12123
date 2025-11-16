@@ -58,39 +58,7 @@ Here are some ideas to get you started:
 <!-- <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=CGC12123&theme=xcode" /> </div> -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-714%20hrs%2011%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.4%20million%20lines%20of%20code-blue)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                179 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.56 % 
-🌆 Daytime                587 commits         ███████████░░░░░░░░░░░░░░   44.47 % 
-🌃 Evening                534 commits         ██████████░░░░░░░░░░░░░░░   40.45 % 
-🌙 Night                  20 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Hong_Kong
-
-💬 Programming Languages: 
-Python                   5 hrs 47 mins       ██████████████████████░░░   89.92 % 
-YAML                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.68 % 
-Text                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
-TeX                      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
-TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
-
-🔥 Editors: 
-VS Code                  6 hrs 26 mins       █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Linux                    5 hrs 42 mins       ██████████████████████░░░   88.64 % 
-Mac                      43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
-```
 
 **I Mostly Code in Python** 
 
@@ -105,7 +73,7 @@ CMake                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/11/2025 18:44:01 UTC
+ Last Updated on 16/11/2025 18:44:54 UTC
 <!--END_SECTION:waka-->
 
 <!-- [![CGC's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CGC12123&theme=xcode)](https://github.com/CGC12123/github-readme-activity-graph) -->
