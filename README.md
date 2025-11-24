@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 <!-- <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=CGC12123&theme=xcode" /> </div> -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-741%20hrs%2043%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-741%20hrs%2057%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.4%20million%20lines%20of%20code-blue)
 
@@ -78,18 +78,18 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Python                   12 hrs 47 mins      █████████████░░░░░░░░░░░░   51.09 % 
-Other                    12 hrs 12 mins      ████████████░░░░░░░░░░░░░   48.76 % 
+Python                   12 hrs 18 mins      █████████████░░░░░░░░░░░░   50.14 % 
+Other                    12 hrs 12 mins      ████████████░░░░░░░░░░░░░   49.71 % 
 Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 MATLAB                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-VS Code                  25 hrs 1 min        █████████████████████████   100.00 % 
+VS Code                  24 hrs 33 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    24 hrs 52 mins      █████████████████████████   99.36 % 
-Mac                      9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
+Linux                    24 hrs 23 mins      █████████████████████████   99.34 % 
+Mac                      9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
 ```
 
 **I Mostly Code in Python** 
@@ -105,7 +105,7 @@ CMake                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/11/2025 18:45:11 UTC
+ Last Updated on 24/11/2025 18:50:40 UTC
 <!--END_SECTION:waka-->
 
 <!-- [![CGC's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CGC12123&theme=xcode)](https://github.com/CGC12123/github-readme-activity-graph) -->
