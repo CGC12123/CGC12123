@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 <!-- <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=CGC12123&theme=xcode" /> </div> -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-749%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-749%20hrs%2040%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.4%20million%20lines%20of%20code-blue)
 
@@ -78,17 +78,17 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Other                    17 hrs 59 mins      █████████████████░░░░░░░░   68.79 % 
-Python                   7 hrs 53 mins       ████████░░░░░░░░░░░░░░░░░   30.16 % 
-TeX                      14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
-Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+Other                    10 hrs 10 mins      ███████████████░░░░░░░░░░   58.88 % 
+Python                   6 hrs 49 mins       ██████████░░░░░░░░░░░░░░░   39.53 % 
+TeX                      14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
+Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 
 🔥 Editors: 
-VS Code                  26 hrs 9 mins       █████████████████████████   100.00 % 
+VS Code                  17 hrs 17 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    25 hrs 54 mins      █████████████████████████   99.06 % 
-Mac                      14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
+Linux                    16 hrs 52 mins      ████████████████████████░   97.66 % 
+Mac                      24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
 ```
 
 **I Mostly Code in Python** 
@@ -104,7 +104,7 @@ CMake                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/11/2025 18:46:57 UTC
+ Last Updated on 28/11/2025 18:47:01 UTC
 <!--END_SECTION:waka-->
 
 <!-- [![CGC's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CGC12123&theme=xcode)](https://github.com/CGC12123/github-readme-activity-graph) -->
