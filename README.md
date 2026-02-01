@@ -58,40 +58,7 @@ Here are some ideas to get you started:
 <!-- <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=CGC12123&theme=xcode" /> </div> -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-869%20hrs%2031%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.41%20million%20lines%20of%20code-blue?style=flat)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                181 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
-🌆 Daytime                611 commits         ███████████░░░░░░░░░░░░░░   45.09 % 
-🌃 Evening                540 commits         ██████████░░░░░░░░░░░░░░░   39.85 % 
-🌙 Night                  23 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Hong_Kong
-
-💬 Programming Languages: 
-Python                   9 hrs 53 mins       ██████████████████████░░░   87.58 % 
-Other                    45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
-Bash                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
-YAML                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
-SSH Config               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
-
-🔥 Editors: 
-VS Code                  11 hrs 17 mins      █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Linux                    7 hrs 55 mins       ██████████████████░░░░░░░   70.14 % 
-Mac                      3 hrs 9 mins        ███████░░░░░░░░░░░░░░░░░░   28.01 % 
-WSL                      12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
-```
 
 **I Mostly Code in Python** 
 
@@ -106,7 +73,7 @@ CMake                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 31/01/2026 18:54:51 UTC
+ Last Updated on 01/02/2026 18:58:29 UTC
 <!--END_SECTION:waka-->
 
 <!-- [![CGC's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CGC12123&theme=xcode)](https://github.com/CGC12123/github-readme-activity-graph) -->
