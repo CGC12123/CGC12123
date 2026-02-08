@@ -17,7 +17,7 @@
 #### 📸 Hobbies travel, photography
 <!-- #### ✈️ [Welcome to my blog🔗](https://cgc12123.github.io/) -->
 #### ✉️ You can reach me at gccai.xm@gmail.com or gccai@stu.xmu.edu.cn
-#### 🙋 You can learn more about me on my [homepage🔗](https://cgc12123.github.io/)
+<!-- #### 🙋 You can learn more about me on my [homepage🔗](https://cgc12123.github.io/) -->
 <!-- <img  src="https://media.giphy.com/media/FPbnShq1h1IS5FQyPD/giphy.gif" width="100"> -->
 
 ---
