@@ -62,35 +62,6 @@ Here are some ideas to get you started:
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.41%20million%20lines%20of%20code-blue?style=flat)
 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                188 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.61 % 
-🌆 Daytime                631 commits         ███████████░░░░░░░░░░░░░░   45.69 % 
-🌃 Evening                539 commits         ██████████░░░░░░░░░░░░░░░   39.03 % 
-🌙 Night                  23 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Hong_Kong
-
-💬 Programming Languages: 
-TeX                      47 mins             █████████████░░░░░░░░░░░░   52.88 % 
-Python                   36 mins             ██████████░░░░░░░░░░░░░░░   41.37 % 
-BibTeX                   4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
-
-🔥 Editors: 
-VS Code                  1 hr 28 mins        █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      1 hr 1 min          █████████████████░░░░░░░░   68.96 % 
-Linux                    27 mins             ████████░░░░░░░░░░░░░░░░░   31.04 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -104,7 +75,7 @@ CMake                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 10/02/2026 19:37:30 UTC
+ Last Updated on 11/02/2026 19:32:26 UTC
 <!--END_SECTION:waka-->
 
 <!-- [![CGC's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CGC12123&theme=xcode)](https://github.com/CGC12123/github-readme-activity-graph) -->
