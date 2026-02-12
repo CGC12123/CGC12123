@@ -62,6 +62,31 @@ Here are some ideas to get you started:
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.41%20million%20lines%20of%20code-blue?style=flat)
 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                188 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.61 % 
+🌆 Daytime                631 commits         ███████████░░░░░░░░░░░░░░   45.69 % 
+🌃 Evening                539 commits         ██████████░░░░░░░░░░░░░░░   39.03 % 
+🌙 Night                  23 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Hong_Kong
+
+💬 Programming Languages: 
+YAML                     0 secs              █████████████████████████   100.00 % 
+
+🔥 Editors: 
+VS Code                  0 secs              █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Mac                      0 secs              █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -75,7 +100,7 @@ CMake                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 11/02/2026 19:32:26 UTC
+ Last Updated on 12/02/2026 19:32:40 UTC
 <!--END_SECTION:waka-->
 
 <!-- [![CGC's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CGC12123&theme=xcode)](https://github.com/CGC12123/github-readme-activity-graph) -->
