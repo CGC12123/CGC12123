@@ -78,13 +78,16 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+SSH Config               5 mins              ███████████░░░░░░░░░░░░░░   43.20 % 
+YAML                     3 mins              ████████░░░░░░░░░░░░░░░░░   30.60 % 
+Bash                     3 mins              ██████░░░░░░░░░░░░░░░░░░░   24.87 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  12 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      12 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -100,7 +103,7 @@ CMake                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/02/2026 19:37:15 UTC
+ Last Updated on 24/02/2026 19:30:20 UTC
 <!--END_SECTION:waka-->
 
 <!-- [![CGC's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CGC12123&theme=xcode)](https://github.com/CGC12123/github-readme-activity-graph) -->
