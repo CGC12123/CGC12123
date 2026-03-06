@@ -58,24 +58,54 @@ Here are some ideas to get you started:
 <!-- <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=CGC12123&theme=xcode" /> </div> -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-893%20hrs%2015%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-896%20hrs%2015%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.42%20million%20lines%20of%20code-blue?style=flat)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                188 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
+🌆 Daytime                636 commits         ███████████░░░░░░░░░░░░░░   45.82 % 
+🌃 Evening                541 commits         ██████████░░░░░░░░░░░░░░░   38.98 % 
+🌙 Night                  23 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Hong_Kong
+
+💬 Programming Languages: 
+Python                   14 hrs 21 mins      ██████████████████░░░░░░░   73.03 % 
+Other                    1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
+MATLAB                   58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
+Markdown                 55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
+YAML                     51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
+
+🔥 Editors: 
+VS Code                  19 hrs 39 mins      █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Linux                    15 hrs 20 mins      ████████████████████░░░░░   78.05 % 
+Mac                      4 hrs 18 mins       █████░░░░░░░░░░░░░░░░░░░░   21.95 % 
+```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   25 repos            ██████████████░░░░░░░░░░░   56.82 % 
-C++                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
-TeX                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
-CMake                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+Python                   26 repos            ██████████████░░░░░░░░░░░   57.78 % 
+C++                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
+JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
+TeX                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
+CMake                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
 ```
 
 
 
 
- Last Updated on 05/03/2026 19:40:49 UTC
+ Last Updated on 06/03/2026 19:07:33 UTC
 <!--END_SECTION:waka-->
 
 <!-- [![CGC's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CGC12123&theme=xcode)](https://github.com/CGC12123/github-readme-activity-graph) -->
