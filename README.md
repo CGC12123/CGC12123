@@ -58,17 +58,17 @@ Here are some ideas to get you started:
 <!-- <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=CGC12123&theme=xcode" /> </div> -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-908%20hrs%2027%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-909%20hrs%2010%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.42%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                193 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
-🌆 Daytime                643 commits         ███████████░░░░░░░░░░░░░░   45.73 % 
-🌃 Evening                546 commits         ██████████░░░░░░░░░░░░░░░   38.83 % 
-🌙 Night                  24 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
+🌞 Morning                196 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.83 % 
+🌆 Daytime                651 commits         ███████████░░░░░░░░░░░░░░   45.94 % 
+🌃 Evening                546 commits         ██████████░░░░░░░░░░░░░░░   38.53 % 
+🌙 Night                  24 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
 ```
 
 
@@ -78,34 +78,34 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Python                   5 hrs 27 mins       █████████████████████████   98.01 % 
-Text                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+Python                   6 hrs 55 mins       ███████████████████████░░   90.30 % 
+Markdown                 28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
+Git Config               9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
+Text                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 33 mins       █████████████████████████   100.00 % 
+VS Code                  7 hrs 40 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      3 hrs 12 mins       ██████████████░░░░░░░░░░░   57.79 % 
-Linux                    2 hrs 20 mins       ███████████░░░░░░░░░░░░░░   42.21 % 
+Mac                      5 hrs 19 mins       █████████████████░░░░░░░░   69.41 % 
+Linux                    2 hrs 20 mins       ████████░░░░░░░░░░░░░░░░░   30.59 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   26 repos            ██████████████░░░░░░░░░░░   57.78 % 
-C++                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
-JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
-TeX                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
-CMake                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
+Python                   27 repos            ███████████████░░░░░░░░░░   58.70 % 
+C++                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
+JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+TeX                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
+CMake                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
 ```
 
 
 
 
- Last Updated on 15/03/2026 19:03:39 UTC
+ Last Updated on 16/03/2026 19:33:13 UTC
 <!--END_SECTION:waka-->
 
 <!-- [![CGC's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CGC12123&theme=xcode)](https://github.com/CGC12123/github-readme-activity-graph) -->
