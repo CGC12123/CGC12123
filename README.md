@@ -12,28 +12,11 @@
 
 <h3> Hello! 👋 This is ✨ Mr.Cai's GitHub <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="25"> ✨ </h3>
 
-#### 👨‍💻 Currently a master’s degree student at Institute of Artificial Intelligence@XMU
-#### 🖥️ Interested in Medical Imaging, Embodied Intelligence, and Visual Perception
-#### 📸 Hobbies travel, photography
-<!-- #### ✈️ [Welcome to my blog🔗](https://cgc12123.github.io/) -->
+#### 👨‍💻 Currently a master’s degree student at [Institute of Artificial Intelligence @ XMU](https://iai.xmu.edu.cn/)
+#### 🖥️ Passionate about visual perception and AGI
 #### ✉️ You can reach me at gccai.xm@gmail.com or gccai@stu.xmu.edu.cn
 <!-- #### 🙋 You can learn more about me on my [homepage🔗](https://cgc12123.github.io/) -->
-<!-- <img  src="https://media.giphy.com/media/FPbnShq1h1IS5FQyPD/giphy.gif" width="100"> -->
-
----
-
-<!--
-**CGC12123/CGC12123** is a  _special_  repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- <img  src="https://media.giphy.com/media/FPbnShq1h1IS5FQyPD/giphy.gif" width="100">  -->
 
 <!-- ![CGC's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=CGC12123&show_icons=true&count_private=true&theme=gotham) -->
 ### 🌟 GitHub Analytics
