@@ -14,7 +14,7 @@
 <!-- #### 🙋 You can learn more about me on my [homepage🔗](https://cgc12123.github.io/) -->
 <!-- <img  src="https://media.giphy.com/media/FPbnShq1h1IS5FQyPD/giphy.gif" width="100">  -->
 
-### 🔧 Tech Stack
+### 🔧 Technologies & Tools
 
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-121011?style=for-the-badge&logo=apple&logoColor=white)
@@ -22,10 +22,16 @@
 ![Git](https://img.shields.io/badge/Git-f1502f?style=for-the-badge&logo=git&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![Shell](https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?style=for-the-badge&logo=pytorch&logoColor=white)
-![Multimodal](https://img.shields.io/badge/Multimodal-8A2BE2?style=for-the-badge&logo=OpenAI&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Transformers](https://img.shields.io/badge/Transformers-FF6F00?style=for-the-badge&logo=huggingface&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![WandB](https://img.shields.io/badge/W%26B-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black)
 
 ### 🌟 GitHub Analytics
 
