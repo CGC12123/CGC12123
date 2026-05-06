@@ -36,16 +36,16 @@
 ### 🌟 GitHub Analytics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C035%20hrs%2017%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C036%20hrs%2042%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.47%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                198 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
-🌆 Daytime                681 commits         ████████████░░░░░░░░░░░░░   46.01 % 
-🌃 Evening                577 commits         ██████████░░░░░░░░░░░░░░░   38.99 % 
+🌞 Morning                199 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
+🌆 Daytime                681 commits         ███████████░░░░░░░░░░░░░░   45.98 % 
+🌃 Evening                577 commits         ██████████░░░░░░░░░░░░░░░   38.96 % 
 🌙 Night                  24 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
 ```
 
@@ -56,34 +56,34 @@
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Python                   10 hrs 45 mins      ████████████████░░░░░░░░░   64.27 % 
-Other                    4 hrs 12 mins       ██████░░░░░░░░░░░░░░░░░░░   25.11 % 
-Markdown                 45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
-TypeScript               32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
-Bash                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
+Python                   7 hrs 57 mins       ████████████████░░░░░░░░░   62.49 % 
+Other                    3 hrs 5 mins        ██████░░░░░░░░░░░░░░░░░░░   24.22 % 
+Markdown                 40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
+Bash                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+Text                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
 
 🔥 Editors: 
-VS Code                  16 hrs 44 mins      █████████████████████████   100.00 % 
+VS Code                  12 hrs 44 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    13 hrs 42 mins      ████████████████████░░░░░   81.86 % 
-Mac                      3 hrs 2 mins        █████░░░░░░░░░░░░░░░░░░░░   18.14 % 
+Linux                    10 hrs 5 mins       ████████████████████░░░░░   79.20 % 
+Mac                      2 hrs 38 mins       █████░░░░░░░░░░░░░░░░░░░░   20.80 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   30 repos            ███████████████░░░░░░░░░░   61.22 % 
-C++                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
-JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
-TeX                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
-CMake                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
+Python                   31 repos            ████████████████░░░░░░░░░   62.00 % 
+C++                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
+JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+TeX                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+CMake                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
 ```
 
 
 
 
- Last Updated on 05/05/2026 19:57:14 UTC
+ Last Updated on 06/05/2026 20:07:54 UTC
 <!--END_SECTION:waka-->
 
 <div align="center"> <img src="./img/code.png" /> </div>
