@@ -36,7 +36,7 @@
 ### 🌟 GitHub Analytics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C162%20hrs%2018%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C162%20hrs%2048%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.49%20million%20lines%20of%20code-blue?style=flat)
 
@@ -56,14 +56,14 @@
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Python                   1 hr 4 mins         █████████████████████████   98.66 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
+Python                   51 mins             █████████████████████████   98.31 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
 
 🔥 Editors: 
-VS Code                  1 hr 5 mins         █████████████████████████   100.00 % 
+VS Code                  51 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    1 hr 5 mins         █████████████████████████   100.00 % 
+Linux                    51 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -79,7 +79,7 @@ CMake                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 27/06/2026 19:51:23 UTC
+ Last Updated on 28/06/2026 19:52:07 UTC
 <!--END_SECTION:waka-->
 
 <div align="center"> <img src="./img/code.png" /> </div>
