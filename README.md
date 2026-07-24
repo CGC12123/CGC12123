@@ -38,34 +38,6 @@
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.50%20million%20lines%20of%20code-blue?style=flat)
 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                202 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
-🌆 Daytime                695 commits         ███████████░░░░░░░░░░░░░░   45.75 % 
-🌃 Evening                593 commits         ██████████░░░░░░░░░░░░░░░   39.04 % 
-🌙 Night                  29 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Hong_Kong
-
-💬 Programming Languages: 
-Other                    3 hrs 35 mins       ████████████████░░░░░░░░░   65.08 % 
-Python                   1 hr 55 mins        █████████░░░░░░░░░░░░░░░░   34.71 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
-
-🔥 Editors: 
-VS Code                  5 hrs 31 mins       █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Linux                    5 hrs 31 mins       █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -79,7 +51,7 @@ CMake                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 23/07/2026 19:54:15 UTC
+ Last Updated on 24/07/2026 19:54:08 UTC
 <!--END_SECTION:waka-->
 
 <div align="center"> <img src="./img/code.png" /> </div>
