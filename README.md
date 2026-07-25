@@ -36,7 +36,39 @@
 ### 🌟 GitHub Analytics
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C191%20hrs%202%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.50%20million%20lines%20of%20code-blue?style=flat)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                202 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
+🌆 Daytime                695 commits         ███████████░░░░░░░░░░░░░░   45.75 % 
+🌃 Evening                593 commits         ██████████░░░░░░░░░░░░░░░   39.04 % 
+🌙 Night                  29 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Hong_Kong
+
+💬 Programming Languages: 
+Other                    3 hrs 35 mins       ███████████████░░░░░░░░░░   58.12 % 
+Python                   1 hr 59 mins        ████████░░░░░░░░░░░░░░░░░   32.14 % 
+JavaScript               28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+Markdown                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+
+🔥 Editors: 
+VS Code                  6 hrs 11 mins       █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Linux                    5 hrs 23 mins       ██████████████████████░░░   87.23 % 
+Mac                      47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
+```
 
 **I Mostly Code in Python** 
 
@@ -51,7 +83,7 @@ CMake                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 24/07/2026 19:54:08 UTC
+ Last Updated on 25/07/2026 19:41:12 UTC
 <!--END_SECTION:waka-->
 
 <div align="center"> <img src="./img/code.png" /> </div>
