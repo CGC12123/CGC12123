@@ -56,18 +56,18 @@
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Other                    3 hrs 35 mins       ███████████████░░░░░░░░░░   58.12 % 
-Python                   1 hr 59 mins        ████████░░░░░░░░░░░░░░░░░   32.14 % 
-JavaScript               28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-Markdown                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Other                    3 hrs 35 mins       ███████████░░░░░░░░░░░░░░   43.35 % 
+Python                   3 hrs 33 mins       ███████████░░░░░░░░░░░░░░   42.95 % 
+JavaScript               1 hr 3 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
+Git Config               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 11 mins       █████████████████████████   100.00 % 
+VS Code                  8 hrs 17 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    5 hrs 23 mins       ██████████████████████░░░   87.23 % 
-Mac                      47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
+Linux                    5 hrs 54 mins       ██████████████████░░░░░░░   71.15 % 
+Mac                      2 hrs 23 mins       ███████░░░░░░░░░░░░░░░░░░   28.85 % 
 ```
 
 **I Mostly Code in Python** 
@@ -83,7 +83,7 @@ CMake                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 25/07/2026 19:41:12 UTC
+ Last Updated on 26/07/2026 19:42:43 UTC
 <!--END_SECTION:waka-->
 
 <div align="center"> <img src="./img/code.png" /> </div>
