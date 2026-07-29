@@ -36,14 +36,18 @@
 ### 🌟 GitHub Analytics
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.50%20million%20lines%20of%20code-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C016%20hrs%2010%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-62%20hrs%2044%20mins-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.51%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                203 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
-🌆 Daytime                696 commits         ███████████░░░░░░░░░░░░░░   45.70 % 
-🌃 Evening                595 commits         ██████████░░░░░░░░░░░░░░░   39.07 % 
+🌞 Morning                203 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
+🌆 Daytime                698 commits         ███████████░░░░░░░░░░░░░░   45.77 % 
+🌃 Evening                595 commits         ██████████░░░░░░░░░░░░░░░   39.02 % 
 🌙 Night                  29 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
 ```
 
@@ -54,26 +58,26 @@
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Other                    8 hrs 24 mins       █████████████░░░░░░░░░░░░   53.67 % 
-Python                   4 hrs 10 mins       ███████░░░░░░░░░░░░░░░░░░   26.63 % 
-JavaScript               2 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.26 % 
-Markdown                 42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
-CSV                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+Other                    9 hrs 29 mins       ██████████████░░░░░░░░░░░   55.84 % 
+Python                   4 hrs 24 mins       ██████░░░░░░░░░░░░░░░░░░░   25.97 % 
+JavaScript               2 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.14 % 
+Markdown                 42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
+CSV                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
 
 🔥 Editors: 
-VS Code                  15 hrs 39 mins      █████████████████████████   100.00 % 
+VS Code                  16 hrs 59 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    10 hrs 4 mins       ████████████████░░░░░░░░░   64.31 % 
-Mac                      5 hrs 35 mins       █████████░░░░░░░░░░░░░░░░   35.69 % 
+Linux                    11 hrs 25 mins      █████████████████░░░░░░░░   67.25 % 
+Mac                      5 hrs 33 mins       ████████░░░░░░░░░░░░░░░░░   32.75 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 33 mins (35.54%)
+⏱ AI Coding Time: 5 hrs 33 mins (32.75%)
 
-✍️ 5,751 lines written by AI, 488 lines written by hand (92.18% AI-written)
+✍️ 5,751 lines written by AI, 953 lines written by hand (85.78% AI-written)
 
 🔤 57,037,118 Input Tokens, 201,714 Output Tokens
 
@@ -84,10 +88,10 @@ Mac                      5 hrs 35 mins       █████████░░�
 GPT                      5,754 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 92.18% of written lines came from AI
+🤖 AI-Driven — 85.78% of written lines came from AI
 📚 Verbose Prompter — average 23,120 characters per prompt
 🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 10.29% of changed lines were hand-edited
+🚀 High AI Trust — 20.3% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -103,7 +107,7 @@ CMake                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 28/07/2026 19:59:22 UTC
+ Last Updated on 29/07/2026 19:51:11 UTC
 <!--END_SECTION:waka-->
 
 <div align="center"> <img src="./img/code.png" /> </div>
