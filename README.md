@@ -58,40 +58,23 @@
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Other                    9 hrs 29 mins       ██████████████████░░░░░░░   73.35 % 
-Python                   2 hrs 43 mins       █████░░░░░░░░░░░░░░░░░░░░   21.11 % 
-JavaScript               38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
-Git Config               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+Other                    9 hrs 29 mins       ███████████████████████░░   93.18 % 
+Python                   41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 56 mins      █████████████████████████   100.00 % 
+VS Code                  10 hrs 11 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    11 hrs 7 mins       ██████████████████████░░░   86.06 % 
-Mac                      1 hr 48 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
+Linux                    10 hrs 11 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 48 mins (13.94%)
-
-✍️ 3,846 lines written by AI, 1,123 lines written by hand (77.4% AI-written)
-
-🔤 30,714,590 Input Tokens, 115,871 Output Tokens
-
-💵 $145.71 Estimated AI Cost This Week
-
-🧠 4 AI Sessions, 23 AI Prompts
-
-GPT                      3,849 lines         █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 77.4% of written lines came from AI
-📚 Verbose Prompter — average 18,730 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 29.84% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -107,7 +90,7 @@ CMake                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 01/08/2026 19:41:28 UTC
+ Last Updated on 02/08/2026 19:42:13 UTC
 <!--END_SECTION:waka-->
 
 <div align="center"> <img src="./img/code.png" /> </div>
