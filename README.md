@@ -58,23 +58,40 @@
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Other                    9 hrs 29 mins       ███████████████████████░░   93.18 % 
-Python                   41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Other                    1 hr 10 mins        ████████████░░░░░░░░░░░░░   49.54 % 
+Python                   53 mins             █████████░░░░░░░░░░░░░░░░   37.73 % 
+Git Config               9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
+Markdown                 8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🔥 Editors: 
-VS Code                  10 hrs 11 mins      █████████████████████████   100.00 % 
+VS Code                  2 hrs 23 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    10 hrs 11 mins      █████████████████████████   100.00 % 
+Linux                    2 hrs 4 mins        ██████████████████████░░░   87.17 % 
+Mac                      18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 10 mins (7.29%)
+
+✍️ 1,216 lines written by AI, 640 lines written by hand (65.52% AI-written)
+
+🔤 4,912,745 Input Tokens, 33,431 Output Tokens
+
+💵 $23.04 Estimated AI Cost This Week
+
+🧠 2 AI Sessions, 5 AI Prompts
+
+GPT                      1,216 lines         █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+⚖️ Balanced with AI — 65.52% of written lines came from AI
+📚 Verbose Prompter — average 32,239 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 44.78% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -90,7 +107,7 @@ CMake                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 02/08/2026 19:42:13 UTC
+ Last Updated on 04/08/2026 20:07:21 UTC
 <!--END_SECTION:waka-->
 
 <div align="center"> <img src="./img/code.png" /> </div>
