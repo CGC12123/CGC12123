@@ -58,40 +58,40 @@
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Other                    19 hrs 19 mins      ████████████████████░░░░░   80.84 % 
-Python                   3 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
-YAML                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
-Bash                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
-Git Config               11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+Other                    20 hrs 32 mins      ████████████████████░░░░░   81.87 % 
+Python                   3 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.92 % 
+YAML                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
+Bash                     29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
+Text                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
 
 🔥 Editors: 
-VS Code                  23 hrs 54 mins      █████████████████████████   100.00 % 
+VS Code                  25 hrs 5 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    23 hrs 35 mins      █████████████████████████   98.72 % 
-Mac                      18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+Linux                    23 hrs 44 mins      ████████████████████████░   94.62 % 
+Mac                      1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 mins (0.73%)
+⏱ AI Coding Time: 1 hr 18 mins (5.23%)
 
-✍️ 1,216 lines written by AI, 2,610 lines written by hand (31.78% AI-written)
+✍️ 1,513 lines written by AI, 2,560 lines written by hand (37.15% AI-written)
 
-🔤 4,912,745 Input Tokens, 33,431 Output Tokens
+🔤 19,901,319 Input Tokens, 114,609 Output Tokens
 
-💵 $23.04 Estimated AI Cost This Week
+💵 $90.75 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 5 AI Prompts
+🧠 2 AI Sessions, 26 AI Prompts
 
-GPT                      1,216 lines         █████████████████████████   100.00 % 
+GPT                      1,644 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 31.78% of written lines came from AI
-📚 Verbose Prompter — average 32,239 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 71.13% of changed lines were hand-edited
+⚖️ Balanced with AI — 37.15% of written lines came from AI
+📚 Verbose Prompter — average 13,886 characters per prompt
+🔁 Iterative Prompter — average 13 prompts per session
+🔍 Hands-On Reviewer — 62.19% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -107,7 +107,7 @@ CMake                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 11/08/2026 19:33:03 UTC
+ Last Updated on 12/08/2026 19:34:38 UTC
 <!--END_SECTION:waka-->
 
 <div align="center"> <img src="./img/code.png" /> </div>
