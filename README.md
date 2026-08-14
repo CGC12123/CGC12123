@@ -36,7 +36,7 @@
 ### 🌟 GitHub Analytics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C021%20hrs%2034%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C022%20hrs%2034%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-62%20hrs%2055%20mins-blue?style=flat)
 
@@ -58,26 +58,26 @@
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Other                    20 hrs 32 mins      ████████████████████░░░░░   81.87 % 
-Python                   3 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.92 % 
-YAML                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
-Bash                     29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
-Text                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+Other                    18 hrs 38 mins      ████████████████████░░░░░   80.74 % 
+Python                   3 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
+Bash                     42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
+Text                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
+Git Config               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
 
 🔥 Editors: 
-VS Code                  25 hrs 5 mins       █████████████████████████   100.00 % 
+VS Code                  23 hrs 5 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    23 hrs 44 mins      ████████████████████████░   94.62 % 
-Mac                      1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
+Linux                    21 hrs 44 mins      ████████████████████████░   94.15 % 
+Mac                      1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 18 mins (5.23%)
+⏱ AI Coding Time: 1 hr 18 mins (5.69%)
 
-✍️ 1,513 lines written by AI, 2,560 lines written by hand (37.15% AI-written)
+✍️ 1,513 lines written by AI, 2,326 lines written by hand (39.41% AI-written)
 
 🔤 19,901,319 Input Tokens, 114,609 Output Tokens
 
@@ -88,10 +88,10 @@ Mac                      1 hr 20 mins        █░░░░░░░░░░�
 GPT                      1,644 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 37.15% of written lines came from AI
+⚖️ Balanced with AI — 39.41% of written lines came from AI
 📚 Verbose Prompter — average 13,886 characters per prompt
 🔁 Iterative Prompter — average 13 prompts per session
-🔍 Hands-On Reviewer — 62.19% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 61.31% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -107,7 +107,7 @@ CMake                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 13/08/2026 19:32:42 UTC
+ Last Updated on 14/08/2026 19:26:35 UTC
 <!--END_SECTION:waka-->
 
 <div align="center"> <img src="./img/code.png" /> </div>
