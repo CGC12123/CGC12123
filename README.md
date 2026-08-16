@@ -58,40 +58,24 @@
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Other                    18 hrs 38 mins      ████████████████████░░░░░   80.74 % 
-Python                   3 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
-Bash                     42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
-Text                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
-Git Config               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+Other                    2 hrs 31 mins       █████████████░░░░░░░░░░░░   51.34 % 
+Python                   1 hr 24 mins        ███████░░░░░░░░░░░░░░░░░░   28.57 % 
+Bash                     39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
+Text                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
+Git Config               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
 
 🔥 Editors: 
-VS Code                  23 hrs 5 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 55 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    21 hrs 44 mins      ████████████████████████░   94.15 % 
-Mac                      1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
+Linux                    4 hrs 53 mins       █████████████████████████   99.25 % 
+Mac                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 18 mins (5.69%)
-
-✍️ 1,513 lines written by AI, 2,326 lines written by hand (39.41% AI-written)
-
-🔤 19,901,319 Input Tokens, 114,609 Output Tokens
-
-💵 $90.75 Estimated AI Cost This Week
-
-🧠 2 AI Sessions, 26 AI Prompts
-
-GPT                      1,644 lines         █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-⚖️ Balanced with AI — 39.41% of written lines came from AI
-📚 Verbose Prompter — average 13,886 characters per prompt
-🔁 Iterative Prompter — average 13 prompts per session
-🔍 Hands-On Reviewer — 61.31% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -107,7 +91,7 @@ CMake                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 15/08/2026 18:53:52 UTC
+ Last Updated on 16/08/2026 18:53:39 UTC
 <!--END_SECTION:waka-->
 
 <div align="center"> <img src="./img/code.png" /> </div>
