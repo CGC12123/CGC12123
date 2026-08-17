@@ -58,18 +58,18 @@
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Other                    2 hrs 31 mins       █████████████░░░░░░░░░░░░   51.34 % 
-Python                   1 hr 24 mins        ███████░░░░░░░░░░░░░░░░░░   28.57 % 
-Bash                     39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
-Text                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
-Git Config               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
+Other                    2 hrs 1 min         ████████████░░░░░░░░░░░░░   46.54 % 
+Python                   1 hr 23 mins        ████████░░░░░░░░░░░░░░░░░   31.91 % 
+Bash                     36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
+Text                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
+Git Config               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 55 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 20 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    4 hrs 53 mins       █████████████████████████   99.25 % 
-Mac                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
+Linux                    4 hrs 18 mins       █████████████████████████   99.15 % 
+Mac                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -91,7 +91,7 @@ CMake                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 16/08/2026 18:53:39 UTC
+ Last Updated on 17/08/2026 19:06:44 UTC
 <!--END_SECTION:waka-->
 
 <div align="center"> <img src="./img/code.png" /> </div>
