@@ -36,9 +36,9 @@
 ### 🌟 GitHub Analytics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C022%20hrs%2044%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C023%20hrs%2041%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-62%20hrs%2055%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-63%20hrs%2015%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.52%20million%20lines%20of%20code-blue?style=flat)
 
@@ -58,24 +58,41 @@
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Other                    2 hrs 1 min         ████████████░░░░░░░░░░░░░   46.54 % 
-Python                   1 hr 23 mins        ████████░░░░░░░░░░░░░░░░░   31.91 % 
-Bash                     36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
-Text                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
-Git Config               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
+Other                    2 hrs               ███████████░░░░░░░░░░░░░░   45.97 % 
+TeX                      57 mins             █████░░░░░░░░░░░░░░░░░░░░   21.85 % 
+Python                   38 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.69 % 
+Bash                     34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
+Git Config               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 20 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 2 mins        ███████████████████████░░   92.68 % 
+Codex Vscode             19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
 
 💻 Operating System: 
-Linux                    4 hrs 18 mins       █████████████████████████   99.15 % 
-Mac                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+Linux                    3 hrs 22 mins       ███████████████████░░░░░░   77.30 % 
+Mac                      59 mins             ██████░░░░░░░░░░░░░░░░░░░   22.70 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 20 mins (7.86%)
+
+✍️ 4 lines written by AI, 498 lines written by hand (0.8% AI-written)
+
+🔤 119,416 Input Tokens, 10,731 Output Tokens
+
+💵 $1.58 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 4 AI Prompts
+
+GPT                      4 lines             █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.8% of written lines came from AI
+📝 Concise Prompter — average 30 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🔍 Hands-On Reviewer — 99.4% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -91,7 +108,7 @@ CMake                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 17/08/2026 19:06:44 UTC
+ Last Updated on 18/08/2026 19:05:53 UTC
 <!--END_SECTION:waka-->
 
 <div align="center"> <img src="./img/code.png" /> </div>
