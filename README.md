@@ -36,7 +36,7 @@
 ### 🌟 GitHub Analytics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C023%20hrs%2041%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C023%20hrs%2042%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-63%20hrs%2015%20mins-blue?style=flat)
 
@@ -58,25 +58,25 @@
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Other                    2 hrs               ███████████░░░░░░░░░░░░░░   45.97 % 
-TeX                      57 mins             █████░░░░░░░░░░░░░░░░░░░░   21.85 % 
-Python                   38 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.69 % 
-Bash                     34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
+Other                    2 hrs               ███████████░░░░░░░░░░░░░░   45.83 % 
+TeX                      57 mins             ██████░░░░░░░░░░░░░░░░░░░   22.10 % 
+Python                   38 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
+Bash                     34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
 Git Config               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 2 mins        ███████████████████████░░   92.68 % 
-Codex Vscode             19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
+VS Code                  4 hrs 3 mins        ███████████████████████░░   92.70 % 
+Codex Vscode             19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.30 % 
 
 💻 Operating System: 
-Linux                    3 hrs 22 mins       ███████████████████░░░░░░   77.30 % 
-Mac                      59 mins             ██████░░░░░░░░░░░░░░░░░░░   22.70 % 
+Linux                    3 hrs 22 mins       ███████████████████░░░░░░   77.05 % 
+Mac                      1 hr                ██████░░░░░░░░░░░░░░░░░░░   22.95 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 20 mins (7.86%)
+⏱ AI Coding Time: 20 mins (7.83%)
 
 ✍️ 4 lines written by AI, 498 lines written by hand (0.8% AI-written)
 
@@ -108,7 +108,7 @@ CMake                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 18/08/2026 19:05:53 UTC
+ Last Updated on 19/08/2026 19:00:57 UTC
 <!--END_SECTION:waka-->
 
 <div align="center"> <img src="./img/code.png" /> </div>
