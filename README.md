@@ -58,42 +58,42 @@
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Python                   1 hr 8 mins         ████████░░░░░░░░░░░░░░░░░   30.64 % 
-TeX                      1 hr 1 min          ███████░░░░░░░░░░░░░░░░░░   27.49 % 
-Bash                     58 mins             ███████░░░░░░░░░░░░░░░░░░   26.05 % 
-Other                    19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
-Markdown                 9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
+TeX                      1 hr 2 mins         █████████░░░░░░░░░░░░░░░░   37.50 % 
+Python                   48 mins             ███████░░░░░░░░░░░░░░░░░░   28.84 % 
+Bash                     35 mins             █████░░░░░░░░░░░░░░░░░░░░   21.13 % 
+Other                    13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
+Markdown                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 10 mins       █████████████████████░░░░   84.57 % 
-Codex Vscode             34 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
+VS Code                  2 hrs 11 mins       ████████████████████░░░░░   78.41 % 
+Codex Vscode             36 mins             █████░░░░░░░░░░░░░░░░░░░░   21.59 % 
 
 💻 Operating System: 
-Linux                    2 hrs 16 mins       ███████████████░░░░░░░░░░   60.72 % 
-Mac                      1 hr 28 mins        ██████████░░░░░░░░░░░░░░░   39.28 % 
+Mac                      1 hr 35 mins        ██████████████░░░░░░░░░░░   56.82 % 
+Linux                    1 hr 12 mins        ███████████░░░░░░░░░░░░░░   43.18 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 47 mins (20.91%)
+⏱ AI Coding Time: 52 mins (31.57%)
 
-✍️ 223 lines written by AI, 480 lines written by hand (31.72% AI-written)
+✍️ 223 lines written by AI, 329 lines written by hand (40.4% AI-written)
 
-🔤 996,555 Input Tokens, 43,920 Output Tokens
+🔤 1,206,990 Input Tokens, 61,555 Output Tokens
 
-💵 $8.49 Estimated AI Cost This Week
+💵 $11.16 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 31 AI Prompts
+🧠 8 AI Sessions, 37 AI Prompts
 
-GPT                      233 lines           █████████████████████████   100.00 % 
+GPT                      252 lines           █████████████████████████   100.00 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 31.72% of written lines came from AI
-📚 Verbose Prompter — average 6,800 characters per prompt
+⚖️ Balanced with AI — 40.4% of written lines came from AI
+📚 Verbose Prompter — average 6,974 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🔍 Hands-On Reviewer — 82.65% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 76.32% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -109,7 +109,7 @@ CMake                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 20/08/2026 19:09:45 UTC
+ Last Updated on 21/08/2026 19:06:03 UTC
 <!--END_SECTION:waka-->
 
 <div align="center"> <img src="./img/code.png" /> </div>
