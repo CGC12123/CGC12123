@@ -36,7 +36,7 @@
 ### 🌟 GitHub Analytics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C025%20hrs%207%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C025%20hrs%2027%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-63%20hrs%2042%20mins-blue?style=flat)
 
@@ -58,27 +58,27 @@
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-TeX                      1 hr 2 mins         █████████░░░░░░░░░░░░░░░░   37.61 % 
-Bash                     38 mins             ██████░░░░░░░░░░░░░░░░░░░   22.97 % 
-Python                   34 mins             █████░░░░░░░░░░░░░░░░░░░░   20.91 % 
-Other                    23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
-Markdown                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
+Other                    5 hrs 10 mins       ████████████████░░░░░░░░░   65.35 % 
+TeX                      1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.23 % 
+Python                   43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
+Bash                     38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 % 
+Markdown                 19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 12 mins       ████████████████████░░░░░   79.22 % 
-Codex Vscode             34 mins             █████░░░░░░░░░░░░░░░░░░░░   20.78 % 
+VS Code                  7 hrs 20 mins       ███████████████████████░░   92.69 % 
+Codex Vscode             34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
 
 💻 Operating System: 
-Mac                      1 hr 29 mins        █████████████░░░░░░░░░░░░   53.49 % 
-Linux                    1 hr 17 mins        ████████████░░░░░░░░░░░░░   46.51 % 
+Linux                    6 hrs 18 mins       ████████████████████░░░░░   79.69 % 
+Mac                      1 hr 36 mins        █████░░░░░░░░░░░░░░░░░░░░   20.31 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 47 mins (28.16%)
+⏱ AI Coding Time: 47 mins (9.91%)
 
-✍️ 223 lines written by AI, 351 lines written by hand (38.85% AI-written)
+✍️ 223 lines written by AI, 1,723 lines written by hand (11.46% AI-written)
 
 🔤 996,555 Input Tokens, 43,920 Output Tokens
 
@@ -90,10 +90,10 @@ GPT                      233 lines           ███████████�
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 38.85% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 11.46% of written lines came from AI
 📚 Verbose Prompter — average 6,800 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🔍 Hands-On Reviewer — 92.78% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 94.94% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -109,7 +109,7 @@ CMake                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 22/08/2026 18:55:28 UTC
+ Last Updated on 23/08/2026 18:54:44 UTC
 <!--END_SECTION:waka-->
 
 <div align="center"> <img src="./img/code.png" /> </div>
