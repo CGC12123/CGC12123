@@ -9,7 +9,7 @@
 <h3> Hello! 👋 This is ✨ Mr.Cai's GitHub <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="25"> ✨ </h3>
  
 #### 👨‍💻 Currently a master’s degree student at [Institute of Artificial Intelligence @ XMU](https://iai.xmu.edu.cn/)
-#### 🖥️ Passionate about visual perception and AGI
+#### 🖥️ Focus on Visual perception and Generative multimodal AI model
 #### ✉️ You can reach me at gccai.xm@gmail.com or gccai@stu.xmu.edu.cn
 <!-- #### 🙋 You can learn more about me on my [homepage🔗](https://cgc12123.github.io/) -->
 <!-- <img  src="https://media.giphy.com/media/FPbnShq1h1IS5FQyPD/giphy.gif" width="100">  -->
