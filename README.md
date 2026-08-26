@@ -1,8 +1,4 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=125&color=FFA0A0FF&text=Guoci%20%20Cai&section=header&reversal=false&fontAlign=50&descAlign=60&descAlignY=33&fontColor=FFFFFFFF&animation=twinkling&fontSize=35&textBg=false&fontAlignY=35" />
-</div>
-
-<div align="center">
   <img align='center' src="https://readme-typing-svg.herokuapp.com?font=Chiron+GoRound+TC&pause=1000&color=F7A59D&center=true&vCenter=true&multiline=true&width=435&height=40&lines=Mostly+Human%2C+Slightly+Neural" alt="Typing SVG" />
 </div>
 
